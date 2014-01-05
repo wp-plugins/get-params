@@ -25,7 +25,7 @@ Examples, if the user goes to your post page http://example.com/post/3/?paramnam
 
  `[display-get-param name="paramname"]`
  
- Shows the value of GET named paramname ('showme' in the example URL), or <blank value> if none given.
+ Shows the value of GET named paramname ('showme' in the example URL), or "blank value" if none given.
  
  `[display-get-param name="paramname" default="Paramname was blank"]`
  
